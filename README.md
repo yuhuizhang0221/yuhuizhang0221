@@ -1,16 +1,19 @@
 ### Miao 🐱
 
-<!--
-**yuhuizhang0221/yuhuizhang0221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### I am Yuhui
+- 🌱 I’m currently learning Biology & Data Science
+- 🧬 I’m currently working on RoKAI
+- 🐶 I’m looking to collaborate with my lovely professor 买买提
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Fun fact
+- 🌊 I'm from Swatow
+- 🐱 I have a cat named mimi
+- 🍛 I like cooking
+
+
+### How to reach me
+- 📫 yxz2052@case.edu
+
+
