@@ -4,7 +4,6 @@
 ### I am Yuhui
 - 🌱 I’m currently learning Biology & Data Science
 - 🧬 I’m currently working on R version of RoKAI
-- 🐶 I’m looking to collaborate with my lovely professor 买买提
 
 
 ### Fun fact
