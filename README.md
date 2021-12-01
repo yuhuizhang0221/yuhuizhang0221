@@ -2,8 +2,8 @@
 
 
 ### I am Yuhui
-- 🌱 I’m currently learning Biology & Data Science
-- 🧬 I’m currently working on R version of RoKAI
+- 🌱 
+- 🧬 
 
 
 ### Fun fact
